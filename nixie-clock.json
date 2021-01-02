@@ -1,0 +1,24 @@
+{
+  "current_version" : [
+    {
+      "id" : "NixieClockClarke",
+      "version" : "1.0.0",
+      "url" : "http://my.test.server/clarkesUpdate.bin"
+    },
+    {
+      "id" : "NixieClockSteph",
+      "version" : "1.0.0",
+      "url" : "http://my.test.server/clarkesUpdate.bin"
+    },
+    {
+      "id" : "NixieClockNick",
+      "version" : "1.0.0",
+      "url" : "http://my.test.server/clarkesUpdate.bin"
+    },
+    {
+      "id" : "NixieClockSam",
+      "version" : "1.0.0",
+      "url" : "http://my.test.server/clarkesUpdate.bin"
+    }
+  ]
+}
