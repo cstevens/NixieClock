@@ -2,23 +2,23 @@
   "current_version" : [
     {
       "id" : "NixieClockClarke",
-      "version" : "1.0.0",
-      "url" : "http://my.test.server/clarkesUpdate.bin"
+      "version" : 1.0,
+      "url" : "http://fiblue.com/nixie/TTGO-self-update-v1.ino.ttgo-lora32-v1.bin"
     },
     {
       "id" : "NixieClockSteph",
-      "version" : "1.0.0",
-      "url" : "http://my.test.server/clarkesUpdate.bin"
+      "version" : 1.0,
+      "url" : "http://fiblue.com/nixie/TTGO-self-update-v1.ino.ttgo-lora32-v1.bin"
     },
     {
       "id" : "NixieClockNick",
-      "version" : "1.0.0",
-      "url" : "http://my.test.server/clarkesUpdate.bin"
+      "version" : 1.0,
+      "url" : "http://fiblue.com/nixie/TTGO-self-update-v1.ino.ttgo-lora32-v1.bin"
     },
     {
       "id" : "NixieClockSam",
-      "version" : "1.0.0",
-      "url" : "http://my.test.server/clarkesUpdate.bin"
+      "version" : 1.0,
+      "url" : "http://fiblue.com/nixie/TTGO-self-update-v1.ino.ttgo-lora32-v1.bin"
     }
   ]
 }
