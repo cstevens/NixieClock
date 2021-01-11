@@ -2,22 +2,22 @@
   "current_version" : [
     {
       "id" : "NixieClockClarke",
-      "version" : 1.0,
+      "version" : 2.0,
       "url" : "http://fiblue.com/nixie/NetClock-ESP32-v2.ino.pico32-clarke.bin"
     },
     {
       "id" : "NixieClockSteph",
-      "version" : 1.0,
+      "version" : 2.0,
       "url" : "http://fiblue.com/nixie/NetClock-ESP32-v2.ino.pico32-steph.bin"
     },
     {
       "id" : "NixieClockNick",
-      "version" : 1.0,
+      "version" : 2.0,
       "url" : "http://fiblue.com/nixie/NetClock-ESP32-v2.ino.pico32-nick.bin"
     },
     {
       "id" : "NixieClockSam",
-      "version" : 1.0,
+      "version" : 2.0,
       "url" : "http://fiblue.com/nixie/NetClock-ESP32-v2.ino.pico32-sam.bin"
     }
   ]
